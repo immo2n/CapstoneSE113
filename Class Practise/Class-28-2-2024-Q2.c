@@ -1,3 +1,8 @@
+/*
+10 20 30
+50 60 70
+90 100 110
+*/
 #include <stdio.h>
 int main(){
     int c = 3;
